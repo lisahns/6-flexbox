@@ -1,0 +1,40 @@
+body {
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+a {
+    text-decoration:none;
+}
+a:visited {
+    color: black;
+  }
+
+  div {
+      display:flex;
+      margin:70px;
+      padding:20px;
+  }
+
+.tribute {
+    background-color:#e1f3eb;
+    justify-content:flex-start;
+}
+.functions {
+    background-color:#ebe1f3;
+    padding-right:400px;
+    justify-content:center;
+}
+.dom {
+    background-color:#f3ebe1;
+    justify-content:space-around;
+    padding-left:400px;
+}
+.array {
+    background-color:#f3e1e9;
+    justify-content:flex-end;
+} 
